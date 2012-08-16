@@ -3,6 +3,8 @@ package com.jameselsey.demo.scjp;
 /**
  * Author:  JElsey
  * Date:    07/08/2012
+ *
+ * Toying around with the Switch statement a little, running on Java 1.6 so not using switch on Strings yet.
  */
 public class SwitchStatement
 {
