@@ -1,4 +1,4 @@
-package com.jameselsey.demo.scjp;
+package com.jameselsey.demo.scjp.flow_control;
 
 /**
  * Author:  JElsey
