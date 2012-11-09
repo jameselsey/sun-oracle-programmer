@@ -3,6 +3,9 @@ package com.jameselsey.demo.scjp.oo_concepts;
 /**
  * Author:  JElsey
  * Date:    16/08/2012
+ *
+ * Sample of inheritance, showing a few classes that extend from each other, there is a little bit of polymorphism in here
+ * too, can you spot it?
  */
 public class Inheritance
 {
