@@ -75,9 +75,8 @@ public class CatchingMultipleExceptions
     {
         throw new MyFileException();
     }
+
+    static class MyFileException extends IOException {}
 }
 
-class MyFileException extends IOException
-{
 
-}
