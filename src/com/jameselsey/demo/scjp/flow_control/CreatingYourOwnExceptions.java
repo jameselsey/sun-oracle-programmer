@@ -26,14 +26,14 @@ public class CreatingYourOwnExceptions
         throw new MyException("ERROR-1");
 
     }
-}
 
-class MyException extends Exception
-{
-     String errorCode;
-
-    MyException(String errorCode)
+    static class MyException extends Exception
     {
-        this.errorCode = errorCode;
+        String errorCode;
+
+        MyException(String errorCode)
+        {
+            this.errorCode = errorCode;
+        }
     }
 }
